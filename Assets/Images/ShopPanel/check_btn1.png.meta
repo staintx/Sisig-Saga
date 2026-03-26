@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 460dbc15d610b5142bc998398f3926d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7871088283086667824
+    second: check_btn1_0
+  - first:
+      213: -6506605785655868488
+    second: check_btn1_1
+  - first:
+      213: -965195549437288011
+    second: check_btn1_2
+  - first:
+      213: -4204224989346765848
+    second: check_btn1_3
+  - first:
+      213: -4731872902659224830
+    second: check_btn1_4
+  - first:
+      213: 6455192027488807252
+    second: check_btn1_5
+  - first:
+      213: -5656959587191283732
+    second: check_btn1_6
+  - first:
+      213: -1073134717970772685
+    second: check_btn1_7
+  - first:
+      213: -6073507200161890672
+    second: check_btn1_8
+  - first:
+      213: -3668144071605714702
+    second: check_btn1_9
+  - first:
+      213: -7883091842490129933
+    second: check_btn1_10
+  - first:
+      213: -4969035694142774507
+    second: check_btn1_11
+  - first:
+      213: 2410466368397715717
+    second: check_btn1_12
+  - first:
+      213: 8554498715886266729
+    second: check_btn1_13
+  - first:
+      213: 2485798602515278218
+    second: check_btn1_14
+  - first:
+      213: -6896187624185781164
+    second: check_btn1_15
+  - first:
+      213: 3737205103653277698
+    second: check_btn1_16
+  - first:
+      213: 4915683172568600327
+    second: check_btn1_17
+  - first:
+      213: -3235687763785401066
+    second: check_btn1_18
+  - first:
+      213: 8626063091659740049
+    second: check_btn1_19
+  - first:
+      213: 2272601038458465132
+    second: check_btn1_20
+  - first:
+      213: 8842099032680543755
+    second: check_btn1_21
+  - first:
+      213: -5575856243700225684
+    second: check_btn1_22
+  - first:
+      213: -6297820896380399597
+    second: check_btn1_23
+  - first:
+      213: -7823515499634404893
+    second: check_btn1_24
+  - first:
+      213: 6791706866254621963
+    second: check_btn1_25
+  - first:
+      213: -8791229035013984889
+    second: check_btn1_26
+  - first:
+      213: -4961091079572903548
+    second: check_btn1_27
+  - first:
+      213: 7894494576804560176
+    second: check_btn1_28
+  - first:
+      213: -4362990720000047305
+    second: check_btn1_29
+  - first:
+      213: -663664352498068752
+    second: check_btn1_30
+  - first:
+      213: 3132718990225549435
+    second: check_btn1_31
+  - first:
+      213: -324592623224351597
+    second: check_btn1_32
+  - first:
+      213: -4792372169412319835
+    second: check_btn1_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: check_btn1_0
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 148
+        width: 2571
+        height: 985
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df31eac8e644c290800000000000000
+      internalID: -7871088283086667824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_btn1_1
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 918
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b30b7ce284e3b5a0800000000000000
+      internalID: -6506605785655868488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_btn1_2
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 678
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1a009f2cfea92f0800000000000000
+      internalID: -965195549437288011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_btn1_3
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 327
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e36a2aa5a797a5c0800000000000000
+      internalID: -4204224989346765848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_btn1_4
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 215
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b43b26aa2055eb0800000000000000
+      internalID: -4731872902659224830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_btn1_5
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 204
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459676ba2f2759950800000000000000
+      internalID: 6455192027488807252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_btn1_6
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 211
+        width: 224
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef19b03a317e71b0800000000000000
+      internalID: -5656959587191283732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_btn1_7
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 211
+        width: 128
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d8633e8a57b11f0800000000000000
+      internalID: -1073134717970772685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_btn1_8
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 211
+        width: 113
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09eb299516196bba0800000000000000
+      internalID: -6073507200161890672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_btn1_9
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 211
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f08cfac662281dc0800000000000000
+      internalID: -3668144071605714702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_btn1_10
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 211
+        width: 115
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1a8945cb1a99290800000000000000
+      internalID: -7883091842490129933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_btn1_11
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 168
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513226efc507a0bb0800000000000000
+      internalID: -4969035694142774507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_btn1_12
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 167
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5092f5f0462b37120800000000000000
+      internalID: 2410466368397715717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_btn1_13
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 172
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969afe7224fa7b670800000000000000
+      internalID: 8554498715886266729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_btn1_14
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 154
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89e51e98a45f7220800000000000000
+      internalID: 2485798602515278218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_btn1_15
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 155
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45426f3b4e1db40a0800000000000000
+      internalID: -6896187624185781164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_btn1_16
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 156
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200d700cd383dd330800000000000000
+      internalID: 3737205103653277698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_btn1_17
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 155
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f01511dc3083440800000000000000
+      internalID: 4915683172568600327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_btn1_18
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 152
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d3e7b4f178813d0800000000000000
+      internalID: -3235687763785401066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_btn1_19
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 155
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1939c74ddaee5b770800000000000000
+      internalID: 8626063091659740049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_btn1_20
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 156
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b208d8a96e98f10800000000000000
+      internalID: 2272601038458465132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_btn1_21
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 157
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06bfb7093275ba70800000000000000
+      internalID: 8842099032680543755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_btn1_22
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 153
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69aa9bd9449e92b0800000000000000
+      internalID: -5575856243700225684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_btn1_23
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 156
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310d6341345a998a0800000000000000
+      internalID: -6297820896380399597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_btn1_24
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e157859a1a4d6390800000000000000
+      internalID: -7823515499634404893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_btn1_25
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 157
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d20bd296df04e50800000000000000
+      internalID: 6791706866254621963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_btn1_26
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 156
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d24e445c74ff580800000000000000
+      internalID: -8791229035013984889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_btn1_27
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 156
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489a2b7b2f9a62bb0800000000000000
+      internalID: -4961091079572903548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_btn1_28
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 155
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03dfea3adf0ee8d60800000000000000
+      internalID: 7894494576804560176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_btn1_29
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 156
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73742186e0b8373c0800000000000000
+      internalID: -4362990720000047305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_btn1_30
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 156
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f25343a9c03ac6f0800000000000000
+      internalID: -663664352498068752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_btn1_31
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 157
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78a381e257a97b20800000000000000
+      internalID: 3132718990225549435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_btn1_32
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 157
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394100c9ab0de7bf0800000000000000
+      internalID: -324592623224351597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_btn1_33
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 159
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5e5ba27e21e7db0800000000000000
+      internalID: -4792372169412319835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      check_btn1_0: -7871088283086667824
+      check_btn1_1: -6506605785655868488
+      check_btn1_10: -7883091842490129933
+      check_btn1_11: -4969035694142774507
+      check_btn1_12: 2410466368397715717
+      check_btn1_13: 8554498715886266729
+      check_btn1_14: 2485798602515278218
+      check_btn1_15: -6896187624185781164
+      check_btn1_16: 3737205103653277698
+      check_btn1_17: 4915683172568600327
+      check_btn1_18: -3235687763785401066
+      check_btn1_19: 8626063091659740049
+      check_btn1_2: -965195549437288011
+      check_btn1_20: 2272601038458465132
+      check_btn1_21: 8842099032680543755
+      check_btn1_22: -5575856243700225684
+      check_btn1_23: -6297820896380399597
+      check_btn1_24: -7823515499634404893
+      check_btn1_25: 6791706866254621963
+      check_btn1_26: -8791229035013984889
+      check_btn1_27: -4961091079572903548
+      check_btn1_28: 7894494576804560176
+      check_btn1_29: -4362990720000047305
+      check_btn1_3: -4204224989346765848
+      check_btn1_30: -663664352498068752
+      check_btn1_31: 3132718990225549435
+      check_btn1_32: -324592623224351597
+      check_btn1_33: -4792372169412319835
+      check_btn1_4: -4731872902659224830
+      check_btn1_5: 6455192027488807252
+      check_btn1_6: -5656959587191283732
+      check_btn1_7: -1073134717970772685
+      check_btn1_8: -6073507200161890672
+      check_btn1_9: -3668144071605714702
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

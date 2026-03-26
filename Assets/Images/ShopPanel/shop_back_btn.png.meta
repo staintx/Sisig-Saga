@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: b961ae464e47986449c39118f8e09b8f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4432179488298337162
+    second: shop_back_btn_0
+  - first:
+      213: -8583179968456452056
+    second: shop_back_btn_1
+  - first:
+      213: 292779759798678475
+    second: shop_back_btn_2
+  - first:
+      213: -139810809757714818
+    second: shop_back_btn_3
+  - first:
+      213: 7782201800235583936
+    second: shop_back_btn_4
+  - first:
+      213: 4184882530302681813
+    second: shop_back_btn_5
+  - first:
+      213: 6008389118771635757
+    second: shop_back_btn_6
+  - first:
+      213: -3260128215500171428
+    second: shop_back_btn_7
+  - first:
+      213: 8634203032661343412
+    second: shop_back_btn_8
+  - first:
+      213: -5706289996650811809
+    second: shop_back_btn_9
+  - first:
+      213: 4177937835778379089
+    second: shop_back_btn_10
+  - first:
+      213: 3586829495026030785
+    second: shop_back_btn_11
+  - first:
+      213: 6809705865051778625
+    second: shop_back_btn_12
+  - first:
+      213: -6267528098061139986
+    second: shop_back_btn_13
+  - first:
+      213: 8724437470826488261
+    second: shop_back_btn_14
+  - first:
+      213: 8962212724407271630
+    second: shop_back_btn_15
+  - first:
+      213: -6857307214054543270
+    second: shop_back_btn_16
+  - first:
+      213: 104100289616395159
+    second: shop_back_btn_17
+  - first:
+      213: -7767763915907009070
+    second: shop_back_btn_18
+  - first:
+      213: -6724517803343208434
+    second: shop_back_btn_19
+  - first:
+      213: 2207306010459960112
+    second: shop_back_btn_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shop_back_btn_0
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 172
+        width: 2568
+        height: 1172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c7433fc3cbd72c0800000000000000
+      internalID: -4432179488298337162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_back_btn_1
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 944
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82897e85b4b62e880800000000000000
+      internalID: -8583179968456452056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_back_btn_2
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 803
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3793ce3a9201400800000000000000
+      internalID: 292779759798678475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_back_btn_3
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 406
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76b1ac2fca4f0ef0800000000000000
+      internalID: -139810809757714818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_back_btn_4
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 224
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c982713e4feffb60800000000000000
+      internalID: 7782201800235583936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_back_btn_5
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 185
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2ed652d70b31a30800000000000000
+      internalID: 4184882530302681813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_back_btn_6
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 192
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26a4b8d116126350800000000000000
+      internalID: 6008389118771635757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_back_btn_7
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 177
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5752e039a2b1c2d0800000000000000
+      internalID: -3260128215500171428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_back_btn_8
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 174
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc316889e9d2d770800000000000000
+      internalID: 8634203032661343412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_back_btn_9
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 176
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e63443b7f2fc0b0800000000000000
+      internalID: -5706289996650811809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_back_btn_10
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 176
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d0c3373540bf930800000000000000
+      internalID: 4177937835778379089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_back_btn_11
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 176
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c89be00c6af6c130800000000000000
+      internalID: 3586829495026030785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_back_btn_12
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 177
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e2e47a76fe08e50800000000000000
+      internalID: 6809705865051778625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_back_btn_13
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 176
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef394fc6644509a0800000000000000
+      internalID: -6267528098061139986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_back_btn_14
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 177
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c168b9d7ad631970800000000000000
+      internalID: 8724437470826488261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_back_btn_15
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 176
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec008cf2dfc206c70800000000000000
+      internalID: 8962212724407271630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_back_btn_16
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 174
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a503e8e9b63f5d0a0800000000000000
+      internalID: -6857307214054543270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_back_btn_17
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 175
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bb99f69a6d17100800000000000000
+      internalID: 104100289616395159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_back_btn_18
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 176
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5f345bfdb533490800000000000000
+      internalID: -7767763915907009070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_back_btn_19
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 175
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0020f59fa6bda2a0800000000000000
+      internalID: -6724517803343208434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_back_btn_20
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 176
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033fc082f1de1ae10800000000000000
+      internalID: 2207306010459960112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      shop_back_btn_0: -4432179488298337162
+      shop_back_btn_1: -8583179968456452056
+      shop_back_btn_10: 4177937835778379089
+      shop_back_btn_11: 3586829495026030785
+      shop_back_btn_12: 6809705865051778625
+      shop_back_btn_13: -6267528098061139986
+      shop_back_btn_14: 8724437470826488261
+      shop_back_btn_15: 8962212724407271630
+      shop_back_btn_16: -6857307214054543270
+      shop_back_btn_17: 104100289616395159
+      shop_back_btn_18: -7767763915907009070
+      shop_back_btn_19: -6724517803343208434
+      shop_back_btn_2: 292779759798678475
+      shop_back_btn_20: 2207306010459960112
+      shop_back_btn_3: -139810809757714818
+      shop_back_btn_4: 7782201800235583936
+      shop_back_btn_5: 4184882530302681813
+      shop_back_btn_6: 6008389118771635757
+      shop_back_btn_7: -3260128215500171428
+      shop_back_btn_8: 8634203032661343412
+      shop_back_btn_9: -5706289996650811809
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

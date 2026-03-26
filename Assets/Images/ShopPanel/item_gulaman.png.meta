@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: 7118387bf7461d54a8b3a8f86904595c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3123601490252131067
+    second: item_gulaman_0
+  - first:
+      213: 5640513128922501571
+    second: item_gulaman_1
+  - first:
+      213: 5844984906452195832
+    second: item_gulaman_2
+  - first:
+      213: -6971048541972327653
+    second: item_gulaman_3
+  - first:
+      213: 1391842614904440170
+    second: item_gulaman_4
+  - first:
+      213: 8159083653899863329
+    second: item_gulaman_5
+  - first:
+      213: 7968279688319780115
+    second: item_gulaman_6
+  - first:
+      213: 5677865448868960934
+    second: item_gulaman_7
+  - first:
+      213: -242507744467504081
+    second: item_gulaman_8
+  - first:
+      213: -111494125605492673
+    second: item_gulaman_9
+  - first:
+      213: -1970572138024643499
+    second: item_gulaman_10
+  - first:
+      213: 4823795899635067686
+    second: item_gulaman_11
+  - first:
+      213: 4152653251709366049
+    second: item_gulaman_12
+  - first:
+      213: 4617761044358343972
+    second: item_gulaman_13
+  - first:
+      213: -5631947165892637458
+    second: item_gulaman_14
+  - first:
+      213: 1501257182911374881
+    second: item_gulaman_15
+  - first:
+      213: -8685726709450401689
+    second: item_gulaman_16
+  - first:
+      213: 5054727194514503126
+    second: item_gulaman_17
+  - first:
+      213: -7848940200780768213
+    second: item_gulaman_18
+  - first:
+      213: 590532155820042128
+    second: item_gulaman_19
+  - first:
+      213: -3664371751874288351
+    second: item_gulaman_20
+  - first:
+      213: -4118843543316038306
+    second: item_gulaman_21
+  - first:
+      213: 4122327501895744319
+    second: item_gulaman_22
+  - first:
+      213: -7541383659316221832
+    second: item_gulaman_23
+  - first:
+      213: 3427925389369145447
+    second: item_gulaman_24
+  - first:
+      213: 8362437989952669132
+    second: item_gulaman_25
+  - first:
+      213: -8975163317480057976
+    second: item_gulaman_26
+  - first:
+      213: -1908044675926078476
+    second: item_gulaman_27
+  - first:
+      213: -8653973854015153381
+    second: item_gulaman_28
+  - first:
+      213: -8793087114309327776
+    second: item_gulaman_29
+  - first:
+      213: -7592627132476468778
+    second: item_gulaman_30
+  - first:
+      213: -7589394923388187705
+    second: item_gulaman_31
+  - first:
+      213: -1338984389943842785
+    second: item_gulaman_32
+  - first:
+      213: -5112641303833949141
+    second: item_gulaman_33
+  - first:
+      213: 8967218850567535071
+    second: item_gulaman_34
+  - first:
+      213: -2105696305953741092
+    second: item_gulaman_35
+  - first:
+      213: 7348612493411726376
+    second: item_gulaman_36
+  - first:
+      213: 8838158497922994339
+    second: item_gulaman_37
+  - first:
+      213: -1615210049336593340
+    second: item_gulaman_38
+  - first:
+      213: 6537391222509124846
+    second: item_gulaman_39
+  - first:
+      213: 1928162610102958465
+    second: item_gulaman_40
+  - first:
+      213: -8328800109251546609
+    second: item_gulaman_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: item_gulaman_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 218
+        width: 1694
+        height: 1902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfaeb5e7103495b20800000000000000
+      internalID: 3123601490252131067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_1
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 1031
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c15a585ec0274e40800000000000000
+      internalID: 5640513128922501571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_2
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 1026
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f95a9aedce8d1150800000000000000
+      internalID: 5844984906452195832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1020
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b131cb7094cd14f90800000000000000
+      internalID: -6971048541972327653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1016
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6541a4eb71d05310800000000000000
+      internalID: 1391842614904440170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1019
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125c563ca53ea3170800000000000000
+      internalID: 8159083653899863329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1008
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315c245a824059e60800000000000000
+      internalID: 7968279688319780115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_7
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1019
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa5c4a0b84dbce40800000000000000
+      internalID: 5677865448868960934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_8
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1021
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24bbb3cd7072acf0800000000000000
+      internalID: -242507744467504081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_9
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 1021
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38edb8fea4e37ef0800000000000000
+      internalID: -111494125605492673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_10
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1011
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55452ccb41f17a4e0800000000000000
+      internalID: -1970572138024643499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_11
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1002
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bebba20d091f240800000000000000
+      internalID: 4823795899635067686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_12
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1009
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12fe187712031a930800000000000000
+      internalID: 4152653251709366049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_13
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1011
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42dad923435951040800000000000000
+      internalID: 4617761044358343972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_14
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 1009
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec833754ed47d1b0800000000000000
+      internalID: -5631947165892637458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_15
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 999
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126afef247985d410800000000000000
+      internalID: 1501257182911374881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_16
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1004
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7681613a399167780800000000000000
+      internalID: -8685726709450401689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_17
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 998
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d53b813a9ff52640800000000000000
+      internalID: 5054727194514503126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_18
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 996
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cdd2d0976f21390800000000000000
+      internalID: -7848940200780768213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_19
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1002
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0976910fdddf13800800000000000000
+      internalID: 590532155820042128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_20
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 988
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125ae8c6e49852dc0800000000000000
+      internalID: -3664371751874288351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_21
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 983
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d7c33be9de6d6c0800000000000000
+      internalID: -4118843543316038306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_22
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 990
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bb15e9503753930800000000000000
+      internalID: 4122327501895744319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_23
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 986
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878658f848f975790800000000000000
+      internalID: -7541383659316221832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_24
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 977
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768f3edcaff629f20800000000000000
+      internalID: 3427925389369145447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_25
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 977
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc54c57bb095d0470800000000000000
+      internalID: 8362437989952669132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_26
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 979
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8831c74e380d17380800000000000000
+      internalID: -8975163317480057976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_27
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 961
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbc9dbf9734585e0800000000000000
+      internalID: -1908044675926078476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_28
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 964
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b98e761a8e6e780800000000000000
+      internalID: -8653973854015153381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_29
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 945
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06427887bdda8f580800000000000000
+      internalID: -8793087114309327776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_30
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 956
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d15fb8b9d191a690800000000000000
+      internalID: -7592627132476468778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_31
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 948
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb4b4b078d0da690800000000000000
+      internalID: -7589394923388187705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_32
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 942
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18aa95aac8fa6de0800000000000000
+      internalID: -1338984389943842785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_33
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 946
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cccf472df3c09b0800000000000000
+      internalID: -5112641303833949141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_34
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 941
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9b343c806f17c70800000000000000
+      internalID: 8967218850567535071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_35
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 940
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd666cebd5017c2e0800000000000000
+      internalID: -2105696305953741092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_36
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 908
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824bdcdc0248bf560800000000000000
+      internalID: 7348612493411726376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_37
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 261
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0dc49c35277aa70800000000000000
+      internalID: 8838158497922994339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_38
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 249
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444b6a3940f9599e0800000000000000
+      internalID: -1615210049336593340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_39
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 249
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecb9672eaa79ba50800000000000000
+      internalID: 6537391222509124846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_40
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 218
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18970649da532ca10800000000000000
+      internalID: 1928162610102958465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_gulaman_41
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 218
+        width: 1403
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02b3d2bd682a6c80800000000000000
+      internalID: -8328800109251546609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      item_gulaman_0: 3123601490252131067
+      item_gulaman_1: 5640513128922501571
+      item_gulaman_10: -1970572138024643499
+      item_gulaman_11: 4823795899635067686
+      item_gulaman_12: 4152653251709366049
+      item_gulaman_13: 4617761044358343972
+      item_gulaman_14: -5631947165892637458
+      item_gulaman_15: 1501257182911374881
+      item_gulaman_16: -8685726709450401689
+      item_gulaman_17: 5054727194514503126
+      item_gulaman_18: -7848940200780768213
+      item_gulaman_19: 590532155820042128
+      item_gulaman_2: 5844984906452195832
+      item_gulaman_20: -3664371751874288351
+      item_gulaman_21: -4118843543316038306
+      item_gulaman_22: 4122327501895744319
+      item_gulaman_23: -7541383659316221832
+      item_gulaman_24: 3427925389369145447
+      item_gulaman_25: 8362437989952669132
+      item_gulaman_26: -8975163317480057976
+      item_gulaman_27: -1908044675926078476
+      item_gulaman_28: -8653973854015153381
+      item_gulaman_29: -8793087114309327776
+      item_gulaman_3: -6971048541972327653
+      item_gulaman_30: -7592627132476468778
+      item_gulaman_31: -7589394923388187705
+      item_gulaman_32: -1338984389943842785
+      item_gulaman_33: -5112641303833949141
+      item_gulaman_34: 8967218850567535071
+      item_gulaman_35: -2105696305953741092
+      item_gulaman_36: 7348612493411726376
+      item_gulaman_37: 8838158497922994339
+      item_gulaman_38: -1615210049336593340
+      item_gulaman_39: 6537391222509124846
+      item_gulaman_4: 1391842614904440170
+      item_gulaman_40: 1928162610102958465
+      item_gulaman_41: -8328800109251546609
+      item_gulaman_5: 8159083653899863329
+      item_gulaman_6: 7968279688319780115
+      item_gulaman_7: 5677865448868960934
+      item_gulaman_8: -242507744467504081
+      item_gulaman_9: -111494125605492673
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
